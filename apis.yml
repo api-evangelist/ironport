@@ -1,22 +1,58 @@
 aid: ironport
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/ironport.png
 name: Ironport
-description: Ironport is a company surfaced as a portfolio company of menlo-ventures and added to the
-  API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  IronPort Systems was an email and web security gateway company founded in 2000
+  in San Bruno, California, known for its anti-spam, anti-virus, anti-phishing,
+  and URL-filtering appliances and its SenderBase email reputation service. Cisco
+  Systems acquired IronPort in 2007 for approximately $830 million; the products
+  were rebranded as Cisco Email Security and Cisco Web Security and the standalone
+  IronPort brand and pricelist were fully retired by late 2012. IronPort no longer
+  operates an independent public website, developer portal, or API surface — its
+  domain now resolves into Cisco — so this profile is retained as a historical
+  Menlo Ventures portfolio company rather than an active API provider awaiting
+  enrichment.
 url: https://raw.githubusercontent.com/api-evangelist/ironport/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - menlo-ventures
 x-tier: stub
-x-tier-reason: portfolio-lead
+x-tier-reason: acquired-defunct
+x-status: acquired
+x-acquired-by: cisco
+x-acquired-year: '2007'
+x-successor-product: Cisco Secure Email
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Email Security
+- Web Security
+- Anti-Spam
+- Email Gateway
+- Cybersecurity
+- Acquired
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
