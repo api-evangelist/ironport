@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Ironport is a company surfaced as a portfolio company of menlo-ventures and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **Acquired or rebranded.** This company was acquired, merged or renamed. Its API, if it still exists, is offered under another name. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: menlo-ventures
+IronPort Systems was an email and web security gateway company founded in 2000 in San Bruno, California, known for its anti-spam, anti-virus, anti-phishing, and URL-filtering appliances and its SenderBase email reputation service. Cisco Systems acquired IronPort in 2007 for approximately $830 million; the products were rebranded as Cisco Email Security and Cisco Web Security and the standalone IronPort brand and pricelist were fully retired by late 2012. IronPort no longer operates an independent public website, developer portal, or API surface — its domain now resolves into Cisco — so this profile is retained as a historical Menlo Ventures portfolio company rather than an active API provider awaiting enrichment.
+
+**Areas:** Company · Email Security · Web Security · Anti-Spam · Email Gateway · Cybersecurity · Acquired
+
+## Ironport on APIs.io (historical record)
+
+Everything profiled for Ironport is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ironport/](https://apis.io/providers/ironport/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as acquired or rebranded, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Ironport: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ironport/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
